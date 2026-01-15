@@ -1,0 +1,23 @@
+accent = "#86CECB"
+cursor = "#BEC8D1"
+foreground = "#BEC8D1"
+background = "#0B0C16"
+selection_foreground = "#0B0C16"
+selection_background = "#BEC8D1"
+
+color0 = "#373B3E" # Black / Hatsune Miku Skirt
+color1 = "#DD4444" # Red / MEIKO
+color2 = "#BBDD22" # Green / Hinomori Shiho
+color3 = "#FFCC11" # Yellow / Kagamine Rin
+color4 = "#3366CC" # Blue / KAITO
+color5 = "#BB88EE" # Purple / Kamishiro Rui
+color6 = "#00CCBB" # Cyan / Hatsune Miku
+color7 = "#BEC8D1" # White / Hatsune Miku Blouse
+color8 = "#000000" # Black [HI] / Pure Black
+color9 = "#EE6666" # Red [HI] / Mochizuki Honami
+color10 = "#88DD44" # Green [HI] / MORE MORE JUMP!
+color11 = "#FFEE11" # Yellow [HI] / Kagamine Len
+color12 = "#99CCFF" # Blue [HI] / Kiritani Haruka
+color13 = "#E12885" # Purple [HI] / Hatsune Hair Tie
+color14 = "#99EEDD" # Cyan [HI] / Hinomori Shizuku
+color15 = "#FFFFFF" # White [HI] / Pure White
